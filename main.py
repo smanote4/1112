@@ -20,7 +20,8 @@ symbol_value = {
     "C": 3,
     "D": 2
 }
-
+# i got there
+# how to do it
 
 def check_winnings(columns, lines, bet, values):
     winnings = 0
